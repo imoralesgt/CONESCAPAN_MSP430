@@ -14,7 +14,7 @@
 //	- Variables: variableUno
 //  - Constantes: CONSTANTE_UNO
 
-#include <msp430g2553.h>
+#include <msp430f5529.h>
 
 const unsigned int MAX_DELAY = 10000;
 
